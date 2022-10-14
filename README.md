@@ -1,5 +1,6 @@
 # Algorytmy-sortowania-i-wyszukiwania-moje-rozwi-zanie-
 Zadanie zlecone w ramach przedmiotu "Metody numeryczne dla inżynierów" - 2 rok studiów Inżynierskich
+
 ZADANIE DOMOWE 1
 W ramach zadania domowego do pierwszych laboratoriów kontynuujemy pracę z algorytmami dotyczącymi
 sortowania i wyszukiwania. Do tego dokonamy porównania dwóch plików za pomocą wcześniej poznanych
